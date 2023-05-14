@@ -1,0 +1,35 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 3rem;
+  }
+
+p {
+
+  color: black;
+  font-size: small;
+}
+
+br {
+
+  color: black;
+}
+
+h1 {
+  color: white;
+  font-size: larger;
+}
+
+p2 {
+  color: white;
+  font-size: x-small;
+}
